@@ -1,1 +1,1 @@
-workspace b.
+workspace new b.
