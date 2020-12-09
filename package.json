@@ -1,0 +1,15 @@
+{
+  "name": "lerna-session",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jasonYoge/lerna-session.git",
+  "author": "jasonyoge <jasonyoge@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}
